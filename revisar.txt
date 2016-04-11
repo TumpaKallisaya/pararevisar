@@ -1,0 +1,7 @@
+Explicación:
+
+El boton para imprimir lo creo en el chat.js, en la primera imagen donde dice onclick="imprimirRepAnt('+data.id+')"
+ahì estoy ejecutando el metodo imprimirRepAnt con el parametro id que más abajo llama al metodo verdadero, pero eso lo hice porque tenia que usar javascript
+sin embargo creo que en tu caso no es necesario... Creo que tu codigo para llamar al metodo que va a imprimir deberia ser asì
+<a href="<?php echo base_url();?>index.php/chat/printChatPdf" /> y recupero con get el parametro id para imprimir
+mucho depende si vas a mandar parametros ahì el codigo va a cambiar, pero basicamente es eso
