@@ -1,0 +1,13 @@
+Para el Excel lo implemente en plataformaB
+
+He creado desde cero el controlador, modelo y vista para que sea màs limpio todo te fijas... todo esta en lso siguientes archivos
+Controller: exportar.php
+modelo: modeloExcelPdf.php
+vista: vistaPruebaExcelPdf.php
+
+para las librerias que se van a usar estan en la siguiente ruta: 
+C:\xampp\htdocs\plataformaB\system\application\libraries
+la carpeta y archivo en si son:
+	PHPExcel
+	Excel.php
+
