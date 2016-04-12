@@ -1,6 +1,7 @@
 Para el Excel lo implemente en plataformaB
 
 He creado desde cero el controlador, modelo y vista para que sea màs limpio todo te fijas... todo esta en lso siguientes archivos
+para ejecutar colocas la siguiente url en el navegador: http://localhost/plataformaB/index.php/exportar
 Controller: exportar.php
 modelo: modeloExcelPdf.php
 vista: vistaPruebaExcelPdf.php
