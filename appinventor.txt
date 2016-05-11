@@ -1,0 +1,15 @@
+En esta pagina esta super explicado el tutorial de appinventro y lo bueno es que es en español
+
+http://kio4.com/appinventor/index.htm#inicio
+
+sería que sigas el ejemplo es simple y super rapido, como te dije hay dos formas de usar, 
+una es online (haces tus programitas en linea) y otra offline (descargas todo el programa)
+
+en linea
+http://ai2.appinventor.mit.edu te loggeas con tu cuenta de gmail
+
+offline
+https://sourceforge.net/projects/ai2u/files/ai2u%202.3/ puedes descargar cualquiera talvez te conviene los de 64bits
+en este caso lo descomprimes, ejecutas el archivo .exe y le das click a donde dice "All AI2U Server"
+despues en un navegador colocas localhost:8888 y te loggeas con ese test@example.com
+y luego sigues el tutorial es recontra simple
