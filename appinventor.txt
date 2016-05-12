@@ -21,3 +21,12 @@ encontre este tutorial parece bueno
 http://www.imagnity.com/tutorials/app-inventor/location-sensor-google-map-using-app-inventor/
 
 me parece que es lo que buscas me avisas beba
+
+beba, aquí hay una pagina de lo que quieres
+http://www.imagnity.com/tutorials/app-inventor/location-sensor-google-map-using-app-inventor/
+
+esta hecho y el programa hecho esta aqui
+http://www.imagnity.com/wp-content/uploads/2013/03/WhereAmI.aia
+solo lo tienes que importar el proyecto al appinventor y listo, pero te cuento que cuando levanto el
+programa no funciona pero parece que es porque necesita GPS sería que lo exportes a apk y lo instalas
+a tu cel y podrías hacer la prueba
