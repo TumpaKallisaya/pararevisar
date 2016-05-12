@@ -13,3 +13,11 @@ https://sourceforge.net/projects/ai2u/files/ai2u%202.3/ puedes descargar cualqui
 en este caso lo descomprimes, ejecutas el archivo .exe y le das click a donde dice "All AI2U Server"
 despues en un navegador colocas localhost:8888 y te loggeas con ese test@example.com
 y luego sigues el tutorial es recontra simple
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+encontre este tutorial parece bueno
+http://www.imagnity.com/tutorials/app-inventor/location-sensor-google-map-using-app-inventor/
+
+me parece que es lo que buscas me avisas beba
