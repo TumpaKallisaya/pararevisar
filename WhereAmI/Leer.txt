@@ -1,0 +1,16 @@
+Amor, en teoria es así como deberia estar se sigue guardando en el celu con el tinydb pero aparte llama a un archivo php
+que esta en un servidor en linea (publicado en internet), el programa php agarra las variables longitud y latitud
+y hace inserts a la base
+
+Las modificaciones las hice sobre el .aia que encontré más antes, porque no tengo los ultimos que modificaste,
+las capturas de pantalla son de las partes que modifique, no se si funciona porque en la compu no accedo a 
+los datos gps per en teoría es así, te llamaré al medio día, espero que este entendible.
+
+Sobre el archivo php, como te dije debería estar en un servidor que este publicado en internet, talvez podrías hacer 
+pruebas conectandote a una red local pero mandale datos constantes en las variables latitud y longitud desde el editor
+de bloques, bueno espero que esto ultimo me entiendas sino me comentas. chau amor te recontra amo mi preciosa princesa,
+la más linda :)
+
+pd. por si acaso te mando la url del lugar con el ejemplo por si acaso
+http://www.newthinktank.com/2014/05/connect-app-inventor-mysql-database/
+besitos
